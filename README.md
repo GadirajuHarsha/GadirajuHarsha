@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi! I'm Harsha 🙂
 
-<!--
-**GadirajuHarsha/GadirajuHarsha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤘 Studying **Computer Science & Psychology** at The University of Texas at Austin ('28)
 
-Here are some ideas to get you started:
+📚 Focused on distributed systems, low-latency infrastructure, and cognition-inspired software
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⌨️ Proficient in **Python, Java, C++** — and currently building in **Rust**
+
+🏢 Previously worked on:
+- Distributed infrastructure at **AWS Route 53**
+- Telemetry pipelines at **Goldman Sachs**
+- Human-robot interaction research at **UT Autonomous Mobile Robotics Lab**
+- ML systems at **State Farm**
+
+💬 Reach out at [harshagadiraju24@gmail.com](mailto:harshagadiraju24@gmail.com) or connect on [LinkedIn](https://linkedin.com/in/harsha-gadiraju)
